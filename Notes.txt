@@ -1,0 +1,9 @@
+# Git merge from Upstream
+
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+git commit and push
+
+After merge for Code Error 16
+bundle lock --add-platform x86_64-linux
