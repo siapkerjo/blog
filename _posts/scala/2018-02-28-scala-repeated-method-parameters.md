@@ -40,4 +40,4 @@ This notation will ask the compiler to pass each element of the array as a singl
 
 The video tutorial talks about the same concepts in more detail and provides few more examples.
 
-<iframe src="https://www.youtube.com/embed/tyHswiV2gvk?list=PLiRMk2ipn1vqwRMy6NhroeQOmY1x1-rTH"></iframe>
+<iframe src="https://www.youtube.com/embed/tyHswiV2gvk"></iframe>
