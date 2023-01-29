@@ -7,3 +7,7 @@ git commit and push
 
 After merge for Code Error 16
 bundle lock --add-platform x86_64-linux
+
+
+# start jekyll server
+bundle exec jekyll serve
