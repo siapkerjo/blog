@@ -73,7 +73,7 @@ tail_includes:
       {% if page.counterlink %}
       <span>
         <em id="pv" class="pageviews">
-          <em id="count">1003</em>
+          <em id="count">loading</em>
           <script>
               $.getJSON("https://api.countapi.xyz/hit/gaurgaurav.com/" + '{{ page.counterlink }}', function(response) {
                 document.getElementById("count").innerHTML = String(response.value);
