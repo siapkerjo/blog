@@ -1,11 +1,11 @@
 ---
 title: Pipes And Filters Pattern
-description: Pipes and Filters is scalable architectural pattern that break down a monolithic task performing complex operations into a series of individual components that can be reused
+description: Pipes and Filters is scalable architectural pattern that break down monolithic task performing complex operations into series of reusable individual components
 keywords: ["cloud", "pipes and filters", "design", "scaling"]
 tags: ["cloud", "pipes and filters", "design", "scaling"]
 category: ["architecture", "patterns"]
 date: 2023-01-28
-permalink: '/patterns/pipes-and-filters/'
+permalink: 'patterns/pipes-and-filters/'
 counterlink: 'patterns-pipes-and-filters/'
 image:
   path: https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-01-28-pipes-and-filters-pattern/pipesAndFiltersCover.png
