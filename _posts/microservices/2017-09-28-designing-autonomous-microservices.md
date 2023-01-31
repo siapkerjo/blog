@@ -4,7 +4,7 @@ description: Microservices must be self-sufficient and self-governing. Designing
 tags: ["microservices", "design"]
 category: ["architecture", "microservices"]
 date: 2017-09-28
-permalink: '/microservices/designing-autonomous-microservices/'
+permalink: 'microservices/designing-autonomous-microservices/'
 counterlink: 'microservices-designing-autonomous-microservices/'
 ---
     

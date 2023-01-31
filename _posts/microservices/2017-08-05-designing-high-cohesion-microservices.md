@@ -4,7 +4,7 @@ description: Designing a highly cohesive and self aggregated microservice. Desig
 tags: ["microservices", "design"]
 category: ["architecture", "microservices"]
 date: 2017-08-05
-permalink: '/microservices/designing-high-cohesion-microservices/'
+permalink: 'microservices/designing-high-cohesion-microservices/'
 counterlink: 'microservices-designing-high-cohesion-microservices/'
 ---
 

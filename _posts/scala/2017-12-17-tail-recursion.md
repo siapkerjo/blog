@@ -4,7 +4,7 @@ description: Sure, recursion can be error-prone, but that's what tail recursion 
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2017-12-17
-permalink: '/scala/tail-recursion/'
+permalink: 'scala/tail-recursion/'
 counterlink: 'scala-tail-recursion/'
 ---
 

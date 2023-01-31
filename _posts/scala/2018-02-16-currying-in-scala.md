@@ -4,7 +4,7 @@ description: This simple example of function currying shows a simple use case as
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2018-01-02
-permalink: '/scala/currying-in-scala/'
+permalink: 'scala/currying-in-scala/'
 counterlink: 'scala-currying-in-scala/'
 ---
 

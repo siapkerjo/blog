@@ -4,7 +4,7 @@ description: Automated microservices are additional benefit to the team. Designi
 tags: ["microservices", "design"]
 category: ["architecture", "microservices"]
 date: 2017-10-15
-permalink: '/microservices/designing-automated-microservices/'
+permalink: 'microservices/designing-automated-microservices/'
 counterlink: 'microservices-designing-automated-microservices/'
 ---
 

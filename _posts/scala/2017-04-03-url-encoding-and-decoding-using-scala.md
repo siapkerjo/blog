@@ -4,7 +4,7 @@ description: A quick hands-on example of ecoding and decoding urls in Scala.
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2017-04-03
-permalink: '/scala/url-encoding-and-decoding-using-scala/'
+permalink: 'scala/url-encoding-and-decoding-using-scala/'
 counterlink: 'url-encoding-and-decoding-using-scala/'
 ---
 

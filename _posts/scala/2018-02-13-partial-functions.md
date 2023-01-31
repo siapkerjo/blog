@@ -4,7 +4,7 @@ description: Interested in learning some finer points of the Scala language? Rea
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2018-02-13
-permalink: '/scala/partial-functions/'
+permalink: 'scala/partial-functions/'
 counterlink: 'scala-partial-functions/'
 ---
 

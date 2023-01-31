@@ -4,7 +4,7 @@ description: Let's see how Scala supports variable arguments and repeated method
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2018-02-28
-permalink: '/scala/scala-repeated-method-parameters/'
+permalink: 'scala/scala-repeated-method-parameters/'
 counterlink: 'scala-repeated-method-parameters/'
 ---
 

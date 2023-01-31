@@ -4,7 +4,7 @@ description: An introduction to load balancing pattern, type of load balancer, c
 tags: ["cloud", "load balancing", "design", "scaling"]
 category: ["architecture", "patterns"]
 date: 2022-12-22
-permalink: '/patterns/load-balancing/'
+permalink: 'patterns/load-balancing/'
 counterlink: 'patterns-load-balancing/'
 image:
   path: https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2022-12-22-load-balancing-pattern.jpg

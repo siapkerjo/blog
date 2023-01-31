@@ -4,7 +4,7 @@ description: A great primer for Scala devs or functional programming buffs in ge
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2017-12-29
-permalink: '/scala/partially-applied-functions/'
+permalink: 'scala/partially-applied-functions/'
 counterlink: 'scala-partially-applied-functions/'
 ---
 

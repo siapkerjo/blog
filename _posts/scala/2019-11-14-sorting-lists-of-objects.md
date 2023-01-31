@@ -4,7 +4,7 @@ description: Learn how to set sort the lists in Scala. The blog talks about the 
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2019-11-14
-permalink: '/scala/sorting-lists-of-objects/'
+permalink: 'scala/sorting-lists-of-objects/'
 counterlink: 'scala-sorting-lists-of-objects/'
 ---
 

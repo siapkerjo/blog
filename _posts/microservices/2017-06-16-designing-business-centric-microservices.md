@@ -4,7 +4,7 @@ description: Designing a domain specific and business focussed microservice. Des
 tags: ["microservices", "design"]
 category: ["architecture", "microservices"]
 date: 2017-06-16
-permalink: '/microservices/designing-business-centric-microservices/'
+permalink: 'microservices/designing-business-centric-microservices/'
 counterlink: 'microservices-designing-business-centric-microservices/'
 ---
 

@@ -2,7 +2,7 @@
 title: Benefits of CI - Production Ready Code
 description: My personal experience with CI of how it helps me to schedule my releases. Article to share thoughts on benefits for continuous integration. A use case on how continuous integration can help release a production ready code
 date: 2017-02-26
-permalink: '/ciBlogs/benefits-of-ci-production-ready-code/'
+permalink: 'ciBlogs/benefits-of-ci-production-ready-code/'
 counterlink: 'ciBlogs-benefits-of-ci-production-ready-code/'
 ---
 

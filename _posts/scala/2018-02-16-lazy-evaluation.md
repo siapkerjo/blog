@@ -4,7 +4,7 @@ description: A quick tour of lazy evaluation to cover its benefits and drawbacks
 tags: ["scala", "jvm"]
 category: ["programming", "tutorial"]
 date: 2018-02-16
-permalink: '/scala/lazy-evaluation/'
+permalink: 'scala/lazy-evaluation/'
 counterlink: 'scala-lazy-evaluation/'
 ---
 

@@ -4,7 +4,7 @@ description: Resilience is must. Designing resilient microservices is must.
 tags: ["microservices", "design"]
 category: ["architecture", "microservices"]
 date: 2017-10-29
-permalink: '/microservices/designing-resilient-microservices/'
+permalink: 'microservices/designing-resilient-microservices/'
 counterlink: 'microservices-designing-resilient-microservices/'
 ---
 

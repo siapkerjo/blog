@@ -4,7 +4,7 @@ description: Microbenchmarking with jvm is hard and should be avoided. An introd
 tags: ["java", "jvm", "microbenchark"]
 category: ["programming"]
 date: 2021-03-30
-permalink: '/java/java-benchmarking/'
+permalink: 'java/java-benchmarking/'
 counterlink: 'java-benchmarking/'
 ---
 
