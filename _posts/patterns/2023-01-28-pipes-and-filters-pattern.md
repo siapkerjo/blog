@@ -68,3 +68,25 @@ A data-driven strategy pushes the message through the pipeline, while in a deman
 During the discussions until now, we notice that the message travels through the pipeline, typically via message brokers. However, we can skip sending the entire data through the pipeline. An alternative could be to store the data at a temporary location on a distributed file system or in a preferred database. Each filter step can pass the storage location of the data from where it can be read.
 
 The implementation reduces the data travelling through the pipe. Moreover, the latest state of the data is always persisted in case the pipeline fails. But the disadvantage of the implementation is that it increases I/O operations, which increases the chances of exceptions.
+
+![Pipes and Filters Dynamic Message Behaviour](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-01-28-pipes-and-filters-pattern/patterns-pipes-and-filters-dynamic-message-behaviour.png)*Pipes and Filters Dynamic Message Behaviour*
+
+### Filter Behaviour
+The number of filters should be developed carefully in a pipeline. While designing filters, it is wise to break down a large filter into multiple constituent steps to minimize the complexity. On the other hand, filters that are light on processing can be combined into a single step to reduce the overhead. Filter steps introduced in a pipeline should be good enough to maximize concurrency, but small enough to minimize the overhead of transferring data through the pipeline stages.
+
+## Sample Use case
+Previous sections have made clear how to use this pattern. This section provides an example to explain pattern usage. Let us say we are collecting a continuous stream of data for a machine learning project. Since the data is collected from multiple sources, the raw data could be in different formats, incomplete, or dirty. Raw data must be cleaned and structured before conducting any analysis on it. Data cleaning is a tedious and time-consuming process but is a necessary step to get a quality result. The data cleaning process consists of six steps, specifically
+
+<ol type="a">
+<li>Remove duplicates,</li>
+<li>remove irrelevant data,</li>
+<li>fix structural errors,</li>
+<li>filter unwanted outliers,</li>
+<li>handle missing data, and finally</li>
+<li>validate your data.</li>
+</ol>
+
+Although, we can write a service that hides the complexity of data cleaning behind, it would have the same demerits as were listed earlier. It would be worth creating a pipeline for the data cleaning, as a couple of steps in the above pipeline may need specialized processing and hardware. Furthermore, there are multiple off-the-shelf tools available that can be used in the pipeline.
+
+## Summary
+In the end, I would say that pattern helps create scalable applications. The pattern resembles a water supply system, where a stream of water flows through the channel via various filters. The number of filters installed on the supply channel is based on the final usage of water. For example, water supplied to a household will pass through more filters than water supplied for irrigation.
