@@ -44,3 +44,27 @@ As we now have a better knowledge of the pattern, this section explores when to 
 2. The processing steps have distinctive hardware needs or scalability requirements, and, in some cases, even preferred programming language requirements.
 3. The pattern can address flexibility concerns in workflows where requirements and business processes are changing constantly.
 4. The pattern is efficient in removing bottlenecks in workflows by parallel and distributed processing of individual steps. 
+
+## Important Considerations
+The pattern has many advantages but consider the below points before adopting this pattern.
+1. The increased flexibility and clear separation come at the expense of complexity, especially when individual filter steps are too granular. Moreover, transferring data and communication between filters is an overhead.
+2. There is always a risk of losing the messages between the filters; thus, a though-through strategy is needed to mitigate these scenarios.
+3. Like above, there is also a need for a recovery strategy if a pipeline fails. Can a new message be injected into the pipeline, or is there a provision to save the state of the pipeline?
+4. Each filter step must be stateless and must have sufficient context. Since these filter steps operate in isolation, and each filter must be provided with enough inputs to work.
+
+## Implementation Details
+Multiple implementations of the pattern are possible based on the nature of the solution.
+
+### Dynamic Pipeline Behaviour
+<strong>Data-Driven Strategy</strong>: 
+It is also known as a push strategy. The data source writes a message into the pipeline. Filters read the incoming message, process it, and push it further. Finally, the message reaches the data sink, where it is consumed.
+
+<strong>Demand-Driven Strategy</strong>: 
+A data-driven strategy pushes the message through the pipeline, while in a demand-driven strategy, a message is pulled. Whenever the data sink initiates a read, the data source produces a new message. The filters then process the new message, and the final transformed result is sent to the data sink in response to the original call.
+
+![Pipes and Filters Dynamic Pipeline Behaviour](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-01-28-pipes-and-filters-pattern/patterns-pipes-and-filters-dynamic-pipeline-behaviour.jpg)*Pipes and Filters Dynamic Pipeline Behaviour*
+
+### Message Behaviour
+During the discussions until now, we notice that the message travels through the pipeline, typically via message brokers. However, we can skip sending the entire data through the pipeline. An alternative could be to store the data at a temporary location on a distributed file system or in a preferred database. Each filter step can pass the storage location of the data from where it can be read.
+
+The implementation reduces the data travelling through the pipe. Moreover, the latest state of the data is always persisted in case the pipeline fails. But the disadvantage of the implementation is that it increases I/O operations, which increases the chances of exceptions.
