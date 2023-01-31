@@ -23,7 +23,7 @@ A straightforward implementation could be a complete service that takes the data
 - The slowest processing filter step can become a bottleneck impacting the overall throughput of the service
 - As the solution scales, it will scale all the processing steps. Such scaling will lead to excessive resource utilisation in the cloud when not intended.
 
-Thus, the above approach is inflexible, non-scalable and against [reusability](https://en.wikipedia.org/wiki/Reusability){:target="_blank"}. A good solution must address all the above concerns. Let us try to find a solution this in next section.
+Thus, the above approach is inflexible, non-scalable and against [reusability](https://en.wikipedia.org/wiki/Reusability){:target="_blank"}. A good solution must address all the above concerns. Let us try to find a solution to this in the next section.
 
 ![Monolithic Service](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-01-28-pipes-and-filters-pattern/patterns-pipes-and-filters-monolithic-service.png)*Monolithic Service with task modules*
 
@@ -48,9 +48,9 @@ As we now have a better knowledge of the pattern, this section explores when to 
 ## Important Considerations
 The pattern has many advantages but consider the below points before adopting this pattern.
 1. The increased flexibility and clear separation come at the expense of complexity, especially when individual filter steps are too granular. Moreover, transferring data and communication between filters is an overhead.
-2. There is always a risk of losing the messages between the filters; thus, a though-through strategy is needed to mitigate these scenarios.
+2. There is always a risk of losing the messages between the filters; thus, a thought-through strategy is needed to mitigate these scenarios.
 3. Like above, there is also a need for a recovery strategy if a pipeline fails. Can a new message be injected into the pipeline, or is there a provision to save the state of the pipeline?
-4. Each filter step must be stateless and must have sufficient context. Since these filter steps operate in isolation, and each filter must be provided with enough inputs to work.
+4. Each filter step must be stateless and must have sufficient context. Since these filter steps operate in isolation, each filter must be provided with enough inputs to work.
 
 ## Implementation Details
 Multiple implementations of the pattern are possible based on the nature of the solution.
@@ -86,7 +86,7 @@ Previous sections have made clear how to use this pattern. This section provides
 <li>validate your data.</li>
 </ol>
 
-Although, we can write a service that hides the complexity of data cleaning behind, it would have the same demerits as were listed earlier. It would be worth creating a pipeline for the data cleaning, as a couple of steps in the above pipeline may need specialized processing and hardware. Furthermore, there are multiple off-the-shelf tools available that can be used in the pipeline.
+Although we can write a service that hides the complexity of data cleaning behind, it would have the same demerits as were listed earlier. It would be worth creating a pipeline for the data cleaning, as a couple of steps in the above pipeline may need specialized processing and hardware. Furthermore, there are multiple off-the-shelf tools available that can be used in the pipeline.
 
 ## Summary
 In the end, I would say that pattern helps create scalable applications. The pattern resembles a water supply system, where a stream of water flows through the channel via various filters. The number of filters installed on the supply channel is based on the final usage of water. For example, water supplied to a household will pass through more filters than water supplied for irrigation.
