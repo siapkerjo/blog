@@ -11,3 +11,6 @@ bundle lock --add-platform x86_64-linux
 
 # start jekyll server
 bundle exec jekyll serve
+
+grammar check 
+https://writer.com/grammar-checker/
