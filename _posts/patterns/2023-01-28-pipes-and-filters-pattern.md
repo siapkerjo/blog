@@ -18,10 +18,10 @@ Applications today collect an infinite amount of data. Many applications need to
 ## Problem Context
 Consider a scenario where incoming data triggers a sequence of processing steps, where each step brings data closer to the desired output state. The origin of data is referred to as a data source. Examples of data sources could be home IoT devices, a video feed from roadside cameras, or continuous inventory updates from warehouses. The processing steps during the transformation usually execute a specific operation and are referred to as filters. These processing steps are independent and do not have a side-effect, i.e., running a step does not depend on any other steps. Each filtering step reads the data, performs a transforming operation based on local data and produces an output. Once the data has gone through the filters, it reaches its final processed stage where it is consumed, referred to as Data Sink.
 A straightforward implementation could be a complete service that takes the data input, performs all the steps sequentially and produce an output. The modules within the service perform the required step and pass on the data to the next module. Although the solution initially looks good as it hides all the complexity of data processing, the use of such a monolithic service will have listed problems:
-- The solution limits code reuse
-- Any change in a processing filter step will lead to a release of all the filters
-- The slowest processing filter step can become a bottleneck impacting the overall throughput of the service
-- As the solution scales, it will scale all the processing steps. Such scaling will lead to excessive resource utilisation in the cloud when not intended.
+1. The solution limits code reuse
+2. Any change in a processing filter step will lead to a release of all the filters
+3. The slowest processing filter step can become a bottleneck impacting the overall throughput of the service
+4. As the solution scales, it will scale all the processing steps. Such scaling will lead to excessive resource utilisation in the cloud when not intended.
 
 Thus, the above approach is inflexible, non-scalable and against [reusability](https://en.wikipedia.org/wiki/Reusability){:target="_blank"}. A good solution must address all the above concerns. Let us try to find a solution to this in the next section.
 
