@@ -14,3 +14,5 @@ bundle exec jekyll serve
 
 grammar check 
 https://writer.com/grammar-checker/
+https://contentatscale.ai/ai-content-detector/
+https://platform.openai.com/ai-text-classifier
