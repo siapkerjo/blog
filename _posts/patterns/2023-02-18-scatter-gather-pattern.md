@@ -22,7 +22,7 @@ The Scatter-Gather pattern can solve this problem. The structure of the Scatter-
 
 ![Scatter-Gather Pattern](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-02-18-scatter-gather-pattern/scatter-gather-introduction.png){: w="650" h="400"}*Scatter-Gather pattern illustration*
 
-The strategy enables us to exploit cloud infrastructure to allocate as many virtual machine as needed and scale horizontally. The application can distribute the load dynamically to achieve the desired response time. If a particular leaf node has a high response time (e.g., due to noisy neighbours), the root controller can also redistribute the load for a quicker response. Let us examine a use case in the passage below.
+The strategy enables us to exploit cloud infrastructure to allocate as many virtual machines as needed and scale horizontally. The application can distribute the load dynamically to achieve the desired response time. If a particular leaf node has a high response time (e.g., due to noisy neighbours), the root controller can also redistribute the load for a quicker response. Let us examine a use case in the passage below.
 
 ## Use Case
 Now that we understand the pattern, let's explore a practical use case where it can demonstrate remarkable effectiveness despite its apparent simplicity. Imagine a website of a rail company that sells tickets to its customers. Suppose a customer plans a weekend trip from London and wants to optimize expenses by identifying how far he can travel with the same budget. He submits a query to the website to list all direct trains departing from London throughout the country.
@@ -50,7 +50,7 @@ The pattern implementation discussed so far works best for immediate responses, 
 <li> The processor service combines the results received from individual processor leaves and persists them into a database.</li>
 <li> Once the estimated time has elapsed, the user can provide the unique identifier to fetch the result. If the result is unavailable within the estimated time, the processor can either request the user to check later or provide a partial result. </li>
 </ol> 
-The figure shows step by step asynchronous implementation 
+The figure shows a step-by-step asynchronous implementation. 
 
 ![Scatter-Gather Pattern Asynch Implementation](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-02-18-scatter-gather-pattern/scatter-gather-impl-asynch.png){: w="650" h="400"}*Scatter-Gather pattern asynchronous implementation*
 
