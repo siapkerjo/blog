@@ -12,7 +12,7 @@ image:
 ---
 
 ## Introduction
-In this blog post, I will explore the Scatter-Gather Pattern. It is a cloud scalability design to process large amounts of data or achieve time-consuming, complex computations. The pattern works like a guide for creating distributed systems to achieve parallelism. The approach can significantly reduce processing times for an online application to cater to as many users. The idea is to break down an operation into independent tasks to respond in approximately constant time.     
+In this blog post, I will explore the Scatter-Gather Pattern, a cloud scalability design that can process large amounts of data and perform time-consuming, intricate computations. The pattern works like a guide for creating distributed systems to achieve parallelism. The approach can significantly reduce processing times for an online application to cater to as many users. The idea is to break down an operation into independent tasks to achieve approximately constant response time.     
 
 ## What is Scatter Gather Pattern
 Let us take an example to understand the problem where the pattern can be effective. Suppose an application that runs on a single-core processor. It can process an incoming request in 64 seconds to produce a result. If we migrate the same application to a 16-core processor, it can generate the same output in roughly four seconds. The 16-core processor will spawn sixteen threads to work in parallel to compute the result, with a few extra microseconds for managing multiple processing threads. However, a four-second response time is good but still considered slugging for a web application. Upgrading the processor further, verticle scaling, will mitigate the problem, not solve it. 
