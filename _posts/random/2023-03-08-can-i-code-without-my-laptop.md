@@ -1,6 +1,6 @@
 ---
 title: Can I Code Without My Laptop
-description: description
+description: Article discusses the comprehensive approach to deliver high-quality code, from business problem to producing robust maintainable code, considering technical strategies, deployment, security, and post-production activities.
 tags: ["programming", "productivity", "ITlife"]
 category: ["programming", "experience"]
 date: 2023-03-08
@@ -12,7 +12,8 @@ image:
   height: 500
 ---
 
-## Discovering Adaptability
+
+## Learning Adaptability
 A few weeks ago, my laptop crashed during a meeting. It was painful as I was about to start on an exciting new feature that my Product Owner (PO) had just proposed. I immediately rushed to the IT department for assistance, and they informed me that they needed to take a backup and completely rebuild my laptop. They estimated that rebuilding would take slightly over a half day to complete.
 Feeling frustrated, I asked myself: "Can I code without my laptop?". In the past, I would have answered 'NO' without hesitation. But on second thought, I realized that I know my system well and am also familiar with the domain. After more introspection, I recognized that I was already doing it without consciously realizing it. So, I went to my PO and requested him to print the new requirements for me.
 
@@ -33,10 +34,5 @@ Now that you have completed the necessary groundwork, it's time to translate you
 
 ## Journey of Delivering High-Quality Code
 Junior developers may not have developed the ability to think that comprehensively yet, while seasoned software engineers know what it takes to deliver a component. And as you progress to be a tech lead, you will perform similar tasks, but for many components, simultaneously. Although it may seem like a lot of hard work, once you start doing it, it will become more intuitive. The only tedious part of this entire process is actually typing the code and committing it, for which I need my laptop.
-
-
-
-
-
 
 
