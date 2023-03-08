@@ -1,7 +1,7 @@
 ---
 title: Regaining Creativity
 description: The article presents a five step strategy to regain the lost creativity after experiencing a long drawn pandemic and negative everyday news. Creativity is necessary to address the complex challenges.
-tags: ["creativity", "stress free"]
+tags: ["creativity", "stress free", "ITlife"]
 category: ["experience"]
 date: 2023-01-01
 permalink: '2023/random/regaining-creativity/'
