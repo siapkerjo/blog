@@ -32,7 +32,7 @@ So far, everything looks perfect. You know the problem, the strategy to develop 
 Ahh, we have listed almost everything, and now it's time to start writing code. But, before you begin, you should consider the testability and maintainability of your code. You first think about your test before the code. Test Driven Development (TDD) should guide your development process to build a robust feature. This technique can help you solve problems more effectively and efficiently.
 Now that you have completed the necessary groundwork, it's time to translate your well-thought-out heuristic into code using your preferred programming language and claim the story points.
 
-## Journey of Delivering High-Quality Code
+## Journey to Deliver High-Quality
 Junior developers may not have developed the ability to think that comprehensively yet, while seasoned software engineers know what it takes to deliver a component. And as you progress to be a tech lead, you will perform similar tasks, but for many components, simultaneously. Although it may seem like a lot of hard work, once you start doing it, it will become more intuitive. The only tedious part of this entire process is actually typing the code and committing it, for which I need my laptop.
 
 
