@@ -1,6 +1,6 @@
 ---
 title: Can I Code Without My Laptop
-description: Article discusses the comprehensive approach to deliver high-quality code, from business problem to producing robust maintainable code, considering technical strategies, deployment, security, and post-production activities.
+description: The article discusses the comprehensive approach to delivering high-quality code, from business problem to producing robust maintainable code, considering technical strategies, deployment, security, and post-production activities.
 tags: ["programming", "productivity", "ITlife"]
 category: ["programming", "experience"]
 date: 2023-03-08
