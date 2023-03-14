@@ -1,7 +1,7 @@
 ---
-title: Pipes And Filters Pattern - Streamlining Data Processing in Distributed Systems
+title: 'Pipes And Filters Pattern: Streamlining Data Processing in Distributed Systems'
 description: Pipes and Filters is scalable design pattern that break down monolithic task performing complex operations into series of reusable individual components.
-tags: ["cloud", "pipes and filters", "design", "scaling"]
+tags: ["cloud", "distributed systems", "design", "scaling"]
 category: ["architecture", "patterns"]
 date: 2023-01-28
 permalink: 'patterns/pipes-and-filters/'

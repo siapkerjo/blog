@@ -1,7 +1,7 @@
 ---
-title: Scatter Gather Pattern - Designing High-Performing Distributed Systems
+title: 'Scatter Gather Pattern: Designing High-Performing Distributed Systems'
 description: The page explains the Scatter-Gather pattern that is used to parallelize processing tasks in distributed systems. The article details the pattern, its implementation and the considerations of using it. 
-tags: ["cloud", "scatter gather", "design", "scaling"]
+tags: ["cloud", "distributed systems", "design", "scaling"]
 category: ["architecture", "patterns"]
 date: 2023-02-18
 permalink: 'patterns/scatter-gather/'
