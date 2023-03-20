@@ -22,15 +22,18 @@ Consider a legacy monolith retail e-commerce website. This complex monolith cons
 
 Thus, a better migration would be to refactor the entire application and break it down by subdomains. The new services must be deployed and managed individually. The new system comes with all the improvements of distributed architecture. These distributed and potentially stateless services are responsible for their own sub-domains. But the immediate question is how to manage a complete workflow in this distributed architecture. Let us try to address this question in the next section and explore more about Orchestration Pattern.
 
+![Monolithic Service Migration](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-03-14-orchestration-pattern/ProbContext-OrchestrationPattern.png)*Monolithic application migration to cloud*
+
 
 ## What is Orchestration Pattern
-We have designed an appropriate architecture where all services operate within their bounded context. However, we still need a component aware of the entire business workflow. The missing element is responsible for generating the final response by communicating with all of the services. Think of it like an orchestra with musicians playing their instruments. In an orchestra, a central conductor coordinates and aligns the members to produce a final performance.
+We have designed an appropriate architecture where all services operate within their [bounded context](http://ddd.fed.wiki.org/view/bounded-context). However, we still need a component aware of the entire business workflow. The missing element is responsible for generating the final response by communicating with all of the services. Think of it like an orchestra with musicians playing their instruments. In an orchestra, a central conductor coordinates and aligns the members to produce a final performance.
 
 
 The Orchestration Pattern also introduces a centralized controller or service known as the orchestrator, similar to a central conductor. The orchestrator does not perform business logic but manages complex business flows by calling independently deployed services, handling exceptions, retrying requests, maintaining state, and returning the final response.
 
+![Orchestrator Pattern Components](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-03-14-orchestration-pattern/OrchestrationPatternDetails.png)*Orchestrator Pattern*
 
-The figure above illustrates the pattern. It has three components: the orchestrator or central service, business services that need coordination, and the communication channel between them. It is an extension of the Scatter Gather pattern but involves a sequence of operations instead of executing a single task in parallel. Let's examine a use case to understand how the pattern works.
+The figure above illustrates the pattern. It has three components: the orchestrator or central service, business services that need coordination, and the communication channel between them. It is an extension of the [Scatter Gather pattern](https://www.gaurgaurav.com/patterns/scatter-gather/) but involves a sequence of operations instead of executing a single task in parallel. Let's examine a use case to understand how the pattern works.
 
 
 
