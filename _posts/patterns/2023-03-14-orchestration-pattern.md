@@ -37,6 +37,18 @@ The figure above illustrates the pattern. It has three components: the orchestra
 
 
 
+## Use Case
+Many industries, such as e-commerce, finance, healthcare, telecommunications, and entertainment, widely use the orchestrator pattern with microservices. By now, we also have a good understanding of the pattern. In this section, I will talk about payment processing, which is relevant in many contexts, to detail the pattern in action.
+
+Consider a payment gateway system that mediates between a merchant and a customer bank. The payment gateway aims to facilitate secure transactions by managing and coordinating multiple participating services. When the orchestrator service receives a payment request, it triggers a sequence of service calls in the following order:
+1.	Firstly, it calls the payment authorization service to verify the customer's payment card, the amount going out, and bank details. The service also confirms the merchant's bank and its status.
+2.	Next, the orchestrator invokes the Risk Management Service to retrieve the transaction history of the customer and merchant to detect and prevent fraud.
+3.	After this, the orchestrator checks for Payment Card Industry (PCI) Compliance by calling the PCI Compliance Service. This service enforces the mandated security standards and requirements for cardholder data. Credit card companies need all online transactions to comply with these security standards.
+4.	Finally, the orchestrator calls another microservice, the Transaction Service. This service converts the payment to the merchant's preferred currency if needed. The service then transfers funds to the merchant's account to settle the payment transaction.
+
+![Orchestrator Pattern Components](https://raw.githubusercontent.com/Gaur4vGaur/traveller/master/images/patterns/2023-03-14-orchestration-pattern/OrchestrationPatternUsecase.png)*Payment Gateway System Flow*
+
+After completing all the essential steps, the Orchestrator Service responds with a transaction completion status. At this point, the calling service may send a confirmation email to the buyer. The complete flow is depicted in above diagram. It is important to note that this orchestration service is not just a simple API gateway that calls the APIs of different services. Instead, it is the only service with the complete context and manages all the steps necessary to finish the transaction. If we want to add another step, for example, the introduction of new compliance by the government, all we need to do is create a new service that ensures compliance and add this to the orchestration service. It's worth noting that the new addition may not affect the other services, and they may not even be aware of it.
 
 
 
