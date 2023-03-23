@@ -1,6 +1,6 @@
 ---
 title: 'Orchestration Pattern: Managing Distributed Transactions'
-description: description
+description: The article explains how to manage complex workflows of a distributed application using an Orchestration Pattern. The technique allows to create scalable, reliable, and fault-tolerant systems.
 tags: ["cloud", "distributed systems", "design", "scaling"]
 category: ["architecture", "patterns"]
 date: 2023-03-14
