@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c5c02589a847c221",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e9b25f948ec869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9b17d69d1dbb06",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5865d59c25af3597",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e7aba5496209b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e076b1432f268c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53e3a4f17ac1527f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43b73024ef47507",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4aa453fcb74afde4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f394c23ad7de33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027f6296697566de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "158652125ebddf10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43f643d4c2e486ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd404cf48d94c9f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e076b1432f268c0",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled",
+    "api/2022-12-01-ten-best-practices-to-launch-apis-in-2023.md",
+    "2023-03-02.md",
+    "2023-03-01.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "ciBlogs/2017-01-17-benefits-of-ci-decrease-code-review-time.md",
+    "microservices/2017-10-15-designing-automated-microservices.md"
+  ]
+}
