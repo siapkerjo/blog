@@ -16,3 +16,12 @@ grammar check
 https://writer.com/grammar-checker/
 https://contentatscale.ai/ai-content-detector/
 https://platform.openai.com/ai-text-classifier
+
+# Notes to resolve Error code 1 (the set up is needed in all systems)
+1. npm run build
+2. Command 1 can give error "'NODE_ENV' is not recognized as an internal or external command, operable program or batch file."
+    Then use $ npm install -g win-node-env
+3. Command 1 can also give error "[!] Error: Cannot find module '@rollup/plugin-babel'"
+    Then use $ npm install @rollup/plugin-babel --save-dev
+4. Once assets are generate add them to git using $ git add assets/js/dist -f
+Wiki guide line for the same - https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide
