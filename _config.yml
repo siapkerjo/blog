@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Blog berisi informasi tentang pengetahuan dan tips trik bekerja produktif
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://blog.siapkerjo.com/"
+url: "https://siapkerjo.com/blog"
 
 github:
   # username:              # change to your github username
@@ -86,10 +86,10 @@ avatar: '/assets/img/logo-siapkerjo-1.png'
 toc: true
 
 comments:
-  active: disqus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:    https-www-gaurgaurav-com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
