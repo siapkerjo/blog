@@ -13,36 +13,36 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/London
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Code Thoughts # the main title
+title: Blog SiapKerjo.com # the main title
 
-tagline: Blogs to share coding practices, programming tutorials, opinions and experiences by Gaurav Gaur # it will display as the sub-title
+tagline: Info Kerja Produktif
 
 description: >- # used by seo meta and the atom feed
-  A blog to share coding practices, programming tutorials, application design opinions, analysis and personal experiences by Gaurav Gaur
+  Blog berisi informasi tentang pengetahuan dan tips trik bekerja produktif
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://www.gaurgaurav.com/'
+url: 'https://siapkerjo.com/blog'
 
 github:
-  username: Gaur4vGaur             # change to your github username
+  username:              # change to your github username
 
 twitter:
-  username: Gaur4vGaur            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Gaurav Gaur
-  email: gaurav@gaurgaurav.com             # change to your email address
+  name: Pak Budi
+  email: pakbudi@siapkerjo.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Gaur4vGaur      # change to your twitter homepage
-    - https://github.com/Gaur4vGaur       # change to your github homepage
+    # - https://twitter.com/      # change to your twitter homepage
+    # - https://github.com/       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: UA-162427596-1    # fill in your Google Analytics ID
+  id:    # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
