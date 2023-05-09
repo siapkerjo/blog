@@ -26,13 +26,13 @@ description: >- # used by seo meta and the atom feed
   Blog berisi informasi tentang pengetahuan dan tips trik bekerja produktif
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://siapkerjo.com/blog/'
+url: "https://siapkerjo.com/blog/"
 
 github:
-  username:              # change to your github username
+  # username:              # change to your github username
 
 twitter:
-  username:             # change to your twitter username
+  # username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/profile-pic.jpg'
+avatar: '/assets/img/logo-siapkerjo-1.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
