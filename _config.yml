@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Blog berisi informasi tentang pengetahuan dan tips trik bekerja produktif
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://siapkerjo.com/blog"
+url: "https://siapkerjo.github.io/blog"
 
 github:
   # username:              # change to your github username
