@@ -12,11 +12,7 @@ image:
   height: 400
 ---
 
-# 16 Contoh Deskripsi Diri dalam CV yang Bisa Gaet Rekruter - Glints Blog
-
 [Sumber Contoh](https://glints.com/id/lowongan/contoh-menulis-deskripsi-diri/#.ZFoKutJBy-8)
-
-![deskripsi-diri.jpg](/foto/deskripsi-diri.jpg)
 
 ## Isi Artikel
 
