@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: 'https://siapkerjo.com/source'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/logo-siapkerjo-1.png'
+avatar: '/siapkerjocom/logo-siapkerjo-1.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
