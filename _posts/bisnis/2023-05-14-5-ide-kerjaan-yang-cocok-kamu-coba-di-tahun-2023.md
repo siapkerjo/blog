@@ -24,7 +24,7 @@ Kamu yang udah coba melamar kerja ke sana ke mari, namun belum diterima kerja ju
 
 Ide kerjaan ini bisa dicoba oleh siapapun yang benar-benar mau berkomitmen tinggi. Sebenarnya wajar, karena setiap pekerjaan tentunya butuh kesungguhan tiada tara untuk menjalaninya. Apa sajakah 5 ide kerjaan tersebut? Yuk, simak!
 
-# 1. Content Creator
+### 1. Content Creator
 
 ![content creator](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-pnw-production-9218702.jpg?raw=true)
 
@@ -36,7 +36,7 @@ Profesi content creator tidak melekat pada platform Tiktok saja, namun bersifat 
 
 Kalo kamu mau belajar secara intensif bagaimana menjadi Content Creator yang menghasilkan, ikuti [**Kelas Content Creator: Belajar dari Nol hingga Profesional dengan klik di sini**](https://habiskerja.com/kelas-content-creator/?ref=muhnurulhakim&campaign=KelasContentCreator).
 
-# 2. Admin Social Media
+### 2. Admin Social Media
 
 ![admin social media](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-cottonbro-studio-5081917.jpg?raw=true)
 
@@ -46,7 +46,7 @@ Tapi eh tapi, jangan asal main aja, ya! Kamu harus belajar untuk tahu bagaimana 
 
 Biasanya jadi Admin Social Media itu harus punya kemampuan komunikasi yang baik, karena salah satu jobdesknya membalas setiap komentar yang masuk ke akun social media yang kamu kelola. Jangan sampai salah merespon komentar yang masuk, ya!
 
-# 3. Content Writer
+### 3. Content Writer
 
 ![content writer](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-vlada-karpovich-4050290.jpg?raw=true)
 
@@ -54,7 +54,7 @@ Serupa dengan profesi content creator, kali ini giliran pekerjaan bernama Conten
 
 Sampai saat ini profesi Content Writer masih sangat dibutuhkan, karena masih banyak orang yang mencari solusi melalui referensi artikel untuk mengatasi berbagai problem mereka. Buktinya media online masih hidup melalui konten-konten artikel yang mereka sediakan. Masih banyak netizen di Indonesia yang suka baca. Tapi pastikan topik yang kamu bikin itu dibutuhkan target pasar tulisan kamu, ya! Di situlah seorang content writer pun butuh riset sebelum membuat sebuah artikel. Biar tetap ada yang baca. Jangan sampai tulisan kamu sepi kayak kuburan!
 
-# 4. Voice Over Talent
+### 4. Voice Over Talent
 
 ![voice over talent](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-george-milton-6953867.jpg?raw=true)
 
@@ -62,7 +62,7 @@ Kalo kamu punya suara yang oke dan mampu berucap dengan jelas, cobain profesi sa
 
 Kerjaan ini tampaknya simpel, tapi butuh gaya hidup yang sehat. Karena suara kamu menjadi aset berharga. Kalo suara kamu serak karena salah treatment, bisa-bisa potensi cuan buat kamu jadi melenggang pergi.
 
-# 5. [Freelance Writer](https://mediabaru.orderio.id/2023-02-02-mengenal-freelance-writer/)
+### 5. [Freelance Writer](https://mediabaru.orderio.id/2023-02-02-mengenal-freelance-writer/)
 
 ![freelance writer](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-karolina-grabowska-4467735.jpg?raw=true)
 
