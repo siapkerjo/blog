@@ -14,11 +14,11 @@ image:
 
 ## Isi Artikel
 
-1.  [Content Creator](#1.-content-creator) 
-2.  [Admin Social Media](#admin-social-media) 
-3.  [Content Writer](#content-writer) 
-4.  [Voice Over Talent](#voice-over-talent) 
-5.  [Freelance Writer](#freelance-writer) 
+1.  [Content Creator](#1-content-creator) 
+2.  [Admin Social Media](#2-admin-social-media) 
+3.  [Content Writer](#3-content-writer) 
+4.  [Voice Over Talent](#4-voice-over-talent) 
+5.  [Freelance Writer](#5-freelance-writer) 
 
 Kamu yang udah coba melamar kerja ke sana ke mari, namun belum diterima kerja juga, nggak usah sedih. Mending cobain [**5 Ide Kerjaan yang Cocok Kamu Cobain di Tahun 2023**](https://blog.siapkerjo.com/bisnis/5-ide-kerjaan-yang-cocok-kamu-coba-di-tahun-2023/) ini.
 
