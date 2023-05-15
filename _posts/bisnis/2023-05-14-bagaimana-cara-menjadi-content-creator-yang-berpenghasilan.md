@@ -7,10 +7,16 @@ date: 2023-05-14
 permalink: 'bisnis/bagaimana-cara-menjadi-content-creator-yang-berpenghasilan/'
 counterlink: 'bagaimana-cara-menjadi-content-creator-yang-berpenghasilan/'
 image:
-  path: /source/siapkerjocom/photo-1552010099-5dc86fcfaa38.jpeg
+  path: https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1552010099-5dc86fcfaa38.jpeg?raw=true
   width: 600
   height: 400
 ---
+
+Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
+
+Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://blog.siapkerjo.com/bisnis/bagaimana-cara-menjadi-content-creator-yang-berpenghasilan/)
+
+Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud dengan Content Creator itu apa, sih?!
 
 ## Isi Artikel
 
@@ -24,15 +30,9 @@ image:
 
 [Kapan Content Creator Menghasilkan?](#kapan-content-creator-menghasilkan)
 
-Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
-
-Bahkan ada yang bertanya-tanya: [**Bagaimana Cara Menjadi Content Creator yang Berpenghasilan?**](https://blog.siapkerjo.com/bisnis/bagaimana-cara-menjadi-content-creator-yang-berpenghasilan/)
-
-Biar nggak salah paham, yuk kita bedah dulu, yang dimaksud dengan Content Creator itu apa, sih?!
-
 Kalo kamu mengira Content Creator itu semacam selebgram, publik figur, musisi terkenal atau selebriti, maka itu **nggak sepenuhnya tepat!**
 
-![https://images.unsplash.com/photo-1581464647110-26e129ce2d02?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1581464647110-26e129ce2d02.jpeg)
+![https://images.unsplash.com/photo-1581464647110-26e129ce2d02?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1581464647110-26e129ce2d02.jpeg?raw=true/)
 
 **Content Creator itu nggak melulu orang terkenal, yang penting bikin konten**. *Yes*, konten dengan bentuk apapun itu.
 

@@ -12,6 +12,10 @@ image:
   height: 400
 ---
 
+[Freelance Writer di Indonesia](https://blog.siapkerjo.com/bisnis/mengenal-profesi-freelance-writer-di-indonesia-dan-potensinya/) adalah profesi yang semakin populer dalam beberapa tahun terakhir. Sejumlah alasan telah mendorong popularitas ini, termasuk kemajuan teknologi yang memudahkan orang untuk menghubungkan dengan klien dan kemampuan untuk menentukan jam kerja sendiri serta fleksibilitas lokasi.
+
+![https://images.unsplash.com/photo-1664575196851-5318f32c3f43?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1664575196851-5318f32c3f43.jpeg)
+
 ## Isi Artikel
 
 - [Mengapa Harus Menjadi Freelance Writer?](#mengapa-harus-menjadi-freelance-writer)
@@ -21,10 +25,6 @@ image:
 - [5 Cara Untuk Meningkatkan Keterampilan Menulis Bagi Freelance Writer](#5-cara-untuk-meningkatkan-keterampilan-menulis-bagi-freelance-writer)
 - [7 Cara Menghasilkan Uang dengan Profesi Freelance Writer](#7-cara-menghasilkan-uang-dengan-profesi-freelance-writer)
 - [Kesimpulan](#kesimpulan)
-
-[Freelance Writer di Indonesia](https://blog.siapkerjo.com/bisnis/mengenal-profesi-freelance-writer-di-indonesia-dan-potensinya/) adalah profesi yang semakin populer dalam beberapa tahun terakhir. Sejumlah alasan telah mendorong popularitas ini, termasuk kemajuan teknologi yang memudahkan orang untuk menghubungkan dengan klien dan kemampuan untuk menentukan jam kerja sendiri serta fleksibilitas lokasi.
-
-![https://images.unsplash.com/photo-1664575196851-5318f32c3f43?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1664575196851-5318f32c3f43.jpeg)
 
 Di Indonesia, kamu dapat menemukan Freelance Writer yang bergerak di berbagai bidang, mulai dari jurnalisme hingga konten pemasaran. Seorang Freelance Writer dapat berkontribusi dengan artikel, laporan, dan konten lainnya di berbagai platform, termasuk blog, website, majalah, dan lainnya. Mereka juga dapat mengurus *project* yang lebih kompleks seperti penulisan buku atau menyusun sebuah proposal.
 

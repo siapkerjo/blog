@@ -12,6 +12,10 @@ image:
   height: 600
 ---
 
+Kamu yang udah coba melamar kerja ke sana ke mari, namun belum diterima kerja juga, nggak usah sedih. Mending cobain [**5 Ide Kerjaan yang Cocok Kamu Cobain di Tahun 2023**](https://blog.siapkerjo.com/bisnis/5-ide-kerjaan-yang-cocok-kamu-coba-di-tahun-2023/) ini.
+
+Ide kerjaan ini bisa dicoba oleh siapapun yang benar-benar mau berkomitmen tinggi. Sebenarnya wajar, karena setiap pekerjaan tentunya butuh kesungguhan tiada tara untuk menjalaninya. Apa sajakah 5 ide kerjaan tersebut? Yuk, simak!
+
 ## Isi Artikel
 
 1.  [Content Creator](#1-content-creator) 
@@ -19,10 +23,6 @@ image:
 3.  [Content Writer](#3-content-writer) 
 4.  [Voice Over Talent](#4-voice-over-talent) 
 5.  [Freelance Writer](#5-freelance-writer) 
-
-Kamu yang udah coba melamar kerja ke sana ke mari, namun belum diterima kerja juga, nggak usah sedih. Mending cobain [**5 Ide Kerjaan yang Cocok Kamu Cobain di Tahun 2023**](https://blog.siapkerjo.com/bisnis/5-ide-kerjaan-yang-cocok-kamu-coba-di-tahun-2023/) ini.
-
-Ide kerjaan ini bisa dicoba oleh siapapun yang benar-benar mau berkomitmen tinggi. Sebenarnya wajar, karena setiap pekerjaan tentunya butuh kesungguhan tiada tara untuk menjalaninya. Apa sajakah 5 ide kerjaan tersebut? Yuk, simak!
 
 ### 1. Content Creator
 
@@ -73,3 +73,4 @@ Ide kerjaan kelima ini bisa kamu cobain kalo kamu punya minat di dunia tulis-men
 Itulah [**5 Ide Kerjaan yang Cocok Kamu Cobain di Tahun 2023**](https://blog.siapkerjo.com/bisnis/5-ide-kerjaan-yang-cocok-kamu-coba-di-tahun-2023/). Kerjaannya seolah seperti main-main, tapi percayalah bahwa dibutuhkan komitmen kuat untuk menjalaninya. 
 
 Ketekunan akan menemukan jalannya. Selamat mencoba, teman!
+

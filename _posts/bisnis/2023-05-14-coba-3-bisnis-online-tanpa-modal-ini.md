@@ -12,15 +12,15 @@ image:
   height: 400
 ---
 
+Tahukah kamu, ketika teknologi semakin berkembang pesat, artinya persaingan di dunia digital pun makin berdarah-darah. Di saat yang sama, banyak orang berlomba-lomba [**bikin bisnis online**](https://blog.siapkerjo.com/bisnis/coba-3-bisnis-online-tanpa-modal-ini/).
+
+Ketika platform media sosial bertambah, maka di situlah perhatian netizen diperebutkan.
+
 ## Isi Artikel
 
 1. [Menjadi Youtuber / Tiktoker](#1-menjadi-youtuber-tiktoker)
 2. [Menjadi Dropshipper / Affiliate Marketer](#2-menjadi-dropshiper-affiliate-marketer)
 3. [Menjadi Blogger / Bikin Media Digital](#3-menjadi-blogger-bikin-media-digital)
-
-Tahukah kamu, ketika teknologi semakin berkembang pesat, artinya persaingan di dunia digital pun makin berdarah-darah. Di saat yang sama, banyak orang berlomba-lomba [**bikin bisnis online**](https://blog.siapkerjo.com/bisnis/coba-3-bisnis-online-tanpa-modal-ini/).
-
-Ketika platform media sosial bertambah, maka di situlah perhatian netizen diperebutkan.
 
 Sadar atau tidak, ketika kamu berselancar di Tiktok misalnya, kamu bisa saja sudah menghabiskan waktu yang lama. Niatnya sebentar, tapi scroll terus-terusan menikmati konten video Tiktok hingga tak terasa udah 1 jam berlalu.
 
