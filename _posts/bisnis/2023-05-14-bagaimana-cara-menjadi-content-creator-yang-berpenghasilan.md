@@ -20,7 +20,8 @@ image:
 3.  [Mulailah bikin konten jelek](#3-mulailah-bikin-konten-jelek) 
 4.  [Lakukan riset lagi, lalu evaluasi konten kamu](#4-lakukan-riset-lagi-lalu-evaluasikonten-kamu) 
 5.  [Rajin bikin konten orisinal](#5-rajin-bikin-konten-orisinal) 
-6.  [Berkomunitas dengan sesama Content Creator](#5-berkomunitas-dengan-sesama-content-creator) 
+6.  [Berkomunitas dengan sesama Content Creator](#6-berkomunitas-dengan-sesama-content-creator) 
+
 [Kapan Content Creator Menghasilkan?](#kapan-content-creator-menghasilkan)
 
 Beberapa tahun terakhir, Content Creator menjadi profesi yang dikejar sebagian orang. Bayangannya simpel: bikin konten, viral, banyak duit. Tapi faktanya nggak segampang itu, *Ferguso!*
@@ -45,7 +46,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
 
 ## Bagaimana Cara Menjadi Content Creator?
 
-### 1. **Tentu saja niat atau motivasi**
+### 1. Tentu saja niat atau motivasi
     
     ![https://images.unsplash.com/photo-1488085061387-422e29b40080?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1488085061387-422e29b40080.jpeg?raw=true/)
     
@@ -53,7 +54,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
     
     Kalo pengen jadi Content Creator hanya karena ikut-ikutan trend semata, umurnya kemungkinan nggak panjang. Gampang patah semangat. Kecuali kamu memang punya niat kuat.
     
-2. **Pilih mana: berangkat dari minat kamu atau minat netizen?**
+### 2. Pilih mana: berangkat dari minat kamu atau minat netizen?
     
     ![https://images.unsplash.com/photo-1526566661780-1a67ea3c863e?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1526566661780-1a67ea3c863e.jpeg?raw=true/)
     
@@ -63,7 +64,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
     
     Kalo kamu ngonten berdasarkan minat netizen, kemungkinan besar kamu lebih cepat nemu *winning-product*. Ya karena kamu cepet mengerti problematika netizen, makanya kamu berpeluang menyediakan solusi lebih cepat dan tepat ke mereka. Begitu kamu jualan, gayung bersambut, ***Boom! Laris….***
     
-3. **Mulailah bikin konten jelek**
+### 3. Mulailah bikin konten jelek
     
     ![https://images.unsplash.com/photo-1483569577148-f14683bed627?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1483569577148-f14683bed627.jpeg?raw=true/)
     
@@ -77,7 +78,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
     
     Kamu punya kesempatan untuk bikin konten yang tepat sasaran sesuai minat konsumenmu dengan peralatan yang kamu miliki sekarang. Nggak perlu minder. Nggak perlu malu. Mulailah bikin konten jelek pertamamu.
     
-4. **Lakukan riset lagi, lalu evaluasi konten kamu**
+### 4. Lakukan riset lagi, lalu evaluasi konten kamu
     
     ![https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1511174511562-5f7f18b874f8.jpeg?raw=true/)
     
@@ -95,7 +96,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
     
     Kalo beruntung, kamu bisa dapet ide-ide brilian dari konsumen konten kamu. Bahkan yang mungkin nggak kepikiran di kepalamu.
     
-5. **Rajin bikin konten orisinal**
+### 5. Rajin bikin konten orisinal
     
     ![https://images.unsplash.com/photo-1552010099-5dc86fcfaa38?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1552010099-5dc86fcfaa38.jpeg?raw=true/)
     
@@ -119,7 +120,7 @@ Memang nggak bisa dipungkiri, **perhatian konsumen menjadi rebutan Content Creat
     
     Rajinlah bikin konten di saat semangat maupun malas melanda. Kalo udah terbiasa jadi orang produktif, maka nggak ada waktu lagi untuk ngurusin mood jelek atau rasa malas.
     
-6. **Berkomunitas dengan sesama Content Creator**
+### 6. Berkomunitas dengan sesama Content Creator
     
     ![https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://github.com/siapkerjo/source/blob/main/siapkerjocom/photo-1582213782179-e0d53f98f2ca.jpeg?raw=true/)
     
