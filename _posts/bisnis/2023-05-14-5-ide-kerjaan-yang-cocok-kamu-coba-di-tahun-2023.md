@@ -12,8 +12,6 @@ image:
   height: 600
 ---
 
-![ide bisnis](https://github.com/siapkerjo/source/blob/main/siapkerjocom/pexels-pnw-production-9218702.jpg?raw=true)
-
 ## Isi Artikel
 
 1.  [Content Creator](#content-creator) 
