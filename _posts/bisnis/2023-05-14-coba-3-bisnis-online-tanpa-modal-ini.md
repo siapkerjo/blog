@@ -18,9 +18,9 @@ Ketika platform media sosial bertambah, maka di situlah perhatian netizen dipere
 
 ## Isi Artikel
 
-1. [Menjadi Youtuber / Tiktoker](#1-menjadi-youtuber-tiktoker)
-2. [Menjadi Dropshipper / Affiliate Marketer](#2-menjadi-dropshiper-affiliate-marketer)
-3. [Menjadi Blogger / Bikin Media Digital](#3-menjadi-blogger-bikin-media-digital)
+1. [Menjadi Youtuber / Tiktoker](#1-menjadi-youtuber--tiktoker)
+2. [Menjadi Dropshipper / Affiliate Marketer](#2-menjadi-dropshiper--affiliate-marketer)
+3. [Menjadi Blogger / Bikin Media Digital](#3-menjadi-blogger--bikin-media-digital)
 
 Sadar atau tidak, ketika kamu berselancar di Tiktok misalnya, kamu bisa saja sudah menghabiskan waktu yang lama. Niatnya sebentar, tapi scroll terus-terusan menikmati konten video Tiktok hingga tak terasa udah 1 jam berlalu.
 
