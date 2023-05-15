@@ -31,7 +31,7 @@ Ketika atensi netizen jadi rebutan konten kreator, di situlah kamu punya opsi: a
 
 Berdasarkan hal tersebut, kalo kamu pengen punya bisnis online sendiri dengan hampir tanpa modal, kamu bisa mencoba 3 jenis bisnis online ini:
 
-# 1. Menjadi Youtuber / Tiktoker
+### 1. Menjadi Youtuber / Tiktoker
 
 ![https://images.unsplash.com/photo-1655715735220-eb3e91361053?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1655715735220-eb3e91361053.jpeg)
 
@@ -41,7 +41,7 @@ Kalo di Youtube, ketika channelmu sudah mencapai kriteria untuk dimonetisasi, ma
 
 Beda dengan di Tiktok, kamu bisa melakukan monetisasi dari Tiktok Affiliate dengan cara mereview produk jualan orang lain lalu mengarahkan penonton video untuk membeli dari link affiliasi kamu. Untuk saat ini cara viral paling cepet adalah aktif bikin konten di Tiktok. Sering melakukan Live Video di Tiktok bikin kamu berpeluang lebih cepet dapetin penghasilan.
 
-# 2. Menjadi Dropshipper / Affiliate Marketer
+### 2. Menjadi Dropshipper / Affiliate Marketer
 
 ![https://images.unsplash.com/photo-1423666639041-f56000c27a9a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1423666639041-f56000c27a9a.jpeg)
 
@@ -49,7 +49,7 @@ Kamu bisa mencari rekomendasi produsen atau supplier produk tertentu yang membuk
 
 Kalo melakukan dropship produk, maka kamu nggak perlu nyetok produk. Artinya resiko kamu makin kecil. Kamu nggak perlu ribet ngurusin produksi dan manajemen stok di gudang. Kamu bisa fokus untuk berjualan saja. Kamu hanya perlu mengeluarkan uang ketika ada produk yang berhasil kamu jual saja, dan tentunya ditambah biaya iklan jika kamu mau promosi gencar-gencaran.
 
-# 3. Menjadi Blogger / Bikin Media Digital
+### 3. Menjadi Blogger / Bikin Media Digital
 
 ![https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](/source/siapkerjocom/photo-1491975474562-1f4e30bc9468.jpeg)
 
