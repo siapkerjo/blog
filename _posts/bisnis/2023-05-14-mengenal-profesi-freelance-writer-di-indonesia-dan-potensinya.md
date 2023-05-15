@@ -14,13 +14,13 @@ image:
 
 ## Isi Artikel
 
-[Mengapa Harus Menjadi Freelance Writer?](#mengapa-harus-menjadi-freelance-writer)
-[5 Fakta Menarik Mengenai Freelance Writer](#5-fakta-menarik-mengenai-freelance-writer)
-[Cara Menjadi Freelance Writer di Indonesia](#cara-menjadi-freelance-writer-di-indonesia)
-[Perbandingan Kelebihan dan Kekurangan Freelance Writer](#perbandingan-kelebihan-dan-kekurangan-freelance-writer)
-[5 Cara Untuk Meningkatkan Keterampilan Menulis Bagi Freelance Writer](#5-cara-untuk-meningkatkan-keterampilan-menulis-bagi-freelance-writer)
-[7 Cara Menghasilkan Uang dengan Profesi Freelance Writer](#7-cara-menghasilkan-uang-dengan-profesi-freelance-writer)
-[Kesimpulan](#kesimpulan)
+- [Mengapa Harus Menjadi Freelance Writer?](#mengapa-harus-menjadi-freelance-writer)
+- [5 Fakta Menarik Mengenai Freelance Writer](#5-fakta-menarik-mengenai-freelance-writer)
+- [Cara Menjadi Freelance Writer di Indonesia](#cara-menjadi-freelance-writer-di-indonesia)
+- [Perbandingan Kelebihan dan Kekurangan Freelance Writer](#perbandingan-kelebihan-dan-kekurangan-freelance-writer)
+- [5 Cara Untuk Meningkatkan Keterampilan Menulis Bagi Freelance Writer](#5-cara-untuk-meningkatkan-keterampilan-menulis-bagi-freelance-writer)
+- [7 Cara Menghasilkan Uang dengan Profesi Freelance Writer](#7-cara-menghasilkan-uang-dengan-profesi-freelance-writer)
+- [Kesimpulan](#kesimpulan)
 
 [Freelance Writer di Indonesia](https://blog.siapkerjo.com/bisnis/mengenal-profesi-freelance-writer-di-indonesia-dan-potensinya/) adalah profesi yang semakin populer dalam beberapa tahun terakhir. Sejumlah alasan telah mendorong popularitas ini, termasuk kemajuan teknologi yang memudahkan orang untuk menghubungkan dengan klien dan kemampuan untuk menentukan jam kerja sendiri serta fleksibilitas lokasi.
 
