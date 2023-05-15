@@ -14,7 +14,7 @@ image:
 
 ## Isi Artikel
 
-1.  [Content Creator](#content-creator) 
+1.  [Content Creator](#1.-content-creator) 
 2.  [Admin Social Media](#admin-social-media) 
 3.  [Content Writer](#content-writer) 
 4.  [Voice Over Talent](#voice-over-talent) 
