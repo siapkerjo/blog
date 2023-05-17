@@ -15,26 +15,32 @@ image:
 ## Isi Artikel
 
 1. [Pendahuluan](#1-pendahuluan)
-2. [Peningkatan Keterampilan yang Dibutuhkan dalam Dunia Kerja](#2-Peningkatan-Keterampilan-yang-Dibutuhkan-dalam-Dunia-Kerja)
-3. [Daftar Keterampilan yang Diinginkan oleh Pemberi Kerja Saat Ini](#3-Daftar-Keterampilan-yang-Diinginkan-oleh-Pemberi-Kerja-Saat-Ini)
+2. [Peningkatan Keterampilan yang Dibutuhkan dalam Dunia Kerja](#2-peningkatan-keterampilan-yang-dibutuhkan-dalam-dunia-kerja)
+3. [Daftar Keterampilan yang Diinginkan oleh Pemberi Kerja Saat Ini](#3-daftar-keterampilan-yang-diinginkan-oleh-pemberi-kerja-saat-ini)
 
-    3.1. [Keterampilan Teknis](#31-Keterampilan-Teknis)
-    3.2. [Keterampilan Komunikasi](#32-Keterampilan-Komunikasi)
-    3.3. [Keterampilan Manajemen Waktu dan Organisasi](#33-Keterampilan-Manajemen-Waktu-dan-Organisasi)
+    3.1. [Keterampilan Teknis](#31-keterampilan-teknis)
 
-4. [Cara Mengembangkan dan Meningkatkan Keterampilan yang Relevan](#4-Cara-Mengembangkan-dan-Meningkatkan-Keterampilan-yang-Relevan)
+    3.2. [Keterampilan Komunikasi](#32-keterampilan-komunikasi)
 
-    4.1. [Pendidikan Formal dan Pelatihan](#41-Pendidikan-Formal-dan-Pelatihan)
-    4.2. [Praktek dan Pengalaman Kerja](#42-Praktek-dan-Pengalaman-Kerja)
-    4.3. [Belajar dari Mentoring dan Kolaborasi](#43-Belajar-dari-Mentoring-dan-Kolaborasi)
+    3.3. [Keterampilan Manajemen Waktu dan Organisasi](#33-keterampilan-manajemen-waktu-dan-organisasi)
 
-5. [Sumber Daya Online dan Offline untuk Pembelajaran dan Pelatihan Keterampilan](#Sumber-Daya-Online-dan-Offline-untuk-Pembelajaran-dan-Pelatihan-Keterampilan)
+4. [Cara Mengembangkan dan Meningkatkan Keterampilan yang Relevan](#4-cara-mengembangkan-dan-meningkatkan-keterampilan-yang-relevan)
 
-    5.1. [Platform E-learning dan Kursus Online](#51-Platform-E--learning-dan-Kursus-Online)
-    5.2. [Workshop dan Seminar di Tempat Kerja](#52-Workshop-dan-Seminar-di-Tempat-Kerja)
-    5.3. [Buku, Jurnal, dan Sumber Referensi Lainnya](#53-Buku--Jurnal--dan-Sumber-Referensi-Lainnya)
+    4.1. [Pendidikan Formal dan Pelatihan](#41-pendidikan-formal-dan-pelatihan)
 
-6. [Kesimpulan](#Kesimpulan)
+    4.2. [Praktek dan Pengalaman Kerja](#42-praktek-dan-pengalaman-kerja)
+
+    4.3. [Belajar dari Mentoring dan Kolaborasi](#43-belajar-dari-mentoring-dan-kolaborasi)
+
+5. [Sumber Daya Online dan Offline untuk Pembelajaran dan Pelatihan Keterampilan](#5-sumber-daya-online-dan-offline-untuk-pembelajaran-dan-pelatihan-keterampilan)
+
+    5.1. [Platform E-learning dan Kursus Online](#51-platform-e-learning-dan-kursus-online)
+
+    5.2. [Workshop dan Seminar di Tempat Kerja](#52-workshop-dan-seminar-di-tempat-kerja)
+
+    5.3. [Buku, Jurnal, dan Sumber Referensi Lainnya](#53-buku-jurnal-dan-sumber-referensi-lainnya)
+
+6. [Kesimpulan](#6-kesimpulan)
 
 ## 1. Pendahuluan
 
