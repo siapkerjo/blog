@@ -10,6 +10,7 @@ image:
   path: https://github.com/siapkerjo/blog/blob/master/foto/deskripsi-diri.jpg?raw=true
   width: 600
   height: 400
+published: false
 ---
 
 [Sumber Contoh](https://glints.com/id/lowongan/contoh-menulis-deskripsi-diri/#.ZFoKutJBy-8)
