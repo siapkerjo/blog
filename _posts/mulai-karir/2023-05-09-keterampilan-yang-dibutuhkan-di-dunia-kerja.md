@@ -12,6 +12,8 @@ image:
   height: 400
 ---
 
+Artikel ini membahas tentang pentingnya meningkatkan keterampilan dalam dunia kerja. Kamu akan menemukan daftar keterampilan yang diinginkan oleh pemberi kerja saat ini, tips untuk mengembangkan dan meningkatkan keterampilan yang relevan, serta sumber daya pembelajaran online dan offline yang dapat kamu manfaatkan.
+
 ## Isi Artikel
 
 1. [Pendahuluan](#1-pendahuluan)
