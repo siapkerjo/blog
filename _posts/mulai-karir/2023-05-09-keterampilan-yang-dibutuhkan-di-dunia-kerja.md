@@ -17,18 +17,24 @@ image:
 1. [Pendahuluan](#1-pendahuluan)
 2. [Peningkatan Keterampilan yang Dibutuhkan dalam Dunia Kerja](#2-Peningkatan-Keterampilan-yang-Dibutuhkan-dalam-Dunia-Kerja)
 3. [Daftar Keterampilan yang Diinginkan oleh Pemberi Kerja Saat Ini](#3-Daftar-Keterampilan-yang-Diinginkan-oleh-Pemberi-Kerja-Saat-Ini)
-    3.1. [Keterampilan Teknis](#3-1-Keterampilan-Teknis)
-    3.2. [Keterampilan Komunikasi](#3-2-Keterampilan-Komunikasi)
-    3.3. [Keterampilan Manajemen Waktu dan Organisasi](#3-3-Keterampilan-Manajemen-Waktu-dan-Organisasi)
+
+    3.1. [Keterampilan Teknis](#31-Keterampilan-Teknis)
+    3.2. [Keterampilan Komunikasi](#32-Keterampilan-Komunikasi)
+    3.3. [Keterampilan Manajemen Waktu dan Organisasi](#33-Keterampilan-Manajemen-Waktu-dan-Organisasi)
+
 4. [Cara Mengembangkan dan Meningkatkan Keterampilan yang Relevan](#4-Cara-Mengembangkan-dan-Meningkatkan-Keterampilan-yang-Relevan)
-    4.1. [Pendidikan Formal dan Pelatihan]
-    4.2. [Praktek dan Pengalaman Kerja]
-    4.3. [Belajar dari Mentoring dan Kolaborasi]
-5. [Sumber Daya Online dan Offline untuk Pembelajaran dan Pelatihan Keterampilan]
-    5.1. [Platform E-learning dan Kursus Online]
-    5.2. [Workshop dan Seminar di Tempat Kerja]
-    5.3. [Buku, Jurnal, dan Sumber Referensi Lainnya]
-6. [Kesimpulan]
+
+    4.1. [Pendidikan Formal dan Pelatihan](#41-Pendidikan-Formal-dan-Pelatihan)
+    4.2. [Praktek dan Pengalaman Kerja](#42-Praktek-dan-Pengalaman-Kerja)
+    4.3. [Belajar dari Mentoring dan Kolaborasi](#43-Belajar-dari-Mentoring-dan-Kolaborasi)
+
+5. [Sumber Daya Online dan Offline untuk Pembelajaran dan Pelatihan Keterampilan](#Sumber-Daya-Online-dan-Offline-untuk-Pembelajaran-dan-Pelatihan-Keterampilan)
+
+    5.1. [Platform E-learning dan Kursus Online](#51-Platform-E--learning-dan-Kursus-Online)
+    5.2. [Workshop dan Seminar di Tempat Kerja](#52-Workshop-dan-Seminar-di-Tempat-Kerja)
+    5.3. [Buku, Jurnal, dan Sumber Referensi Lainnya](#53-Buku--Jurnal--dan-Sumber-Referensi-Lainnya)
+
+6. [Kesimpulan](#Kesimpulan)
 
 ## 1. Pendahuluan
 
