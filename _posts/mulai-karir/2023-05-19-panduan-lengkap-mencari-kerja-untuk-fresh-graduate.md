@@ -7,7 +7,7 @@ date: 2023-05-19
 permalink: 'karir/panduan-lengkap-mencari-kerja-untuk-fresh-graduate/'
 counterlink: 'panduan-lengkap-mencari-kerja-untuk-fresh-graduate/'
 image:
-  path: https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
+  path: /source/siapkerjocom/photo-1529400971008-f566de0e6dfc.jpeg
   width: 600
   height: 400
 ---
