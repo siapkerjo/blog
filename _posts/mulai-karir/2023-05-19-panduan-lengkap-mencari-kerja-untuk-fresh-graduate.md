@@ -1,6 +1,6 @@
 ---
 title: Panduan Lengkap Untuk Fresh Graduate: Daftar Situs dan Sumber Daya Online untuk Mencari Lowongan Kerja
-description: "Temukan daftar situs web terkemuka dan sumber daya online yang akan membantu lulusan baru dalam mencari lowongan kerja. Pelajari cara memanfaatkan platform pencarian kerja online, media sosial, dan komunitas pencari kerja. Dapatkan tips dan trik untuk membuat profil yang menarik dan meningkatkan peluang mendapatkan pekerjaan yang diinginkan."
+description: "Temukan daftar situs web terkemuka dan sumber daya online yang akan membantu lulusan baru dalam mencari lowongan kerja. Dapatkan tips dan trik untuk membuat profil yang menarik dan meningkatkan peluang mendapatkan pekerjaan yang diinginkan."
 tags: ["ngantor", "melamar kerja"]
 category: ["karir", "mulai karir"]
 date: 2023-05-19
