@@ -7,14 +7,12 @@ date: 2023-05-19
 permalink: 'karir/panduan-lengkap-mencari-kerja-untuk-fresh-graduate/'
 counterlink: 'panduan-lengkap-mencari-kerja-untuk-fresh-graduate/'
 image:
-  path: /source/siapkerjocom/photo-1529400971008-f566de0e6dfc.jpeg
+  path: https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
   width: 600
   height: 400
 ---
 
 Temukan daftar situs web terkemuka dan sumber daya online yang akan membantu lulusan baru dalam mencari lowongan kerja. Pelajari cara memanfaatkan platform pencarian kerja online, media sosial, dan komunitas pencari kerja. Dapatkan tips dan trik untuk membuat profil yang menarik dan meningkatkan peluang mendapatkan pekerjaan yang diinginkan.
-
-![https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 ## Isi Artikel
 
